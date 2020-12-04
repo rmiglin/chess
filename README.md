@@ -4,7 +4,9 @@
 * Add move validation
 * Play stockfish engine
 * Save past games (play through them)
+
 Bonus:
+
 * keep score (tally points)
 * 2-player local
 * play person online
